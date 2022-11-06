@@ -1,4 +1,6 @@
 import { useState, useEffect } from "react";
+import React from "react";
+import ReactDOM from "react-dom";
 // import { useReducer } from "react";
 // const IceCoffee = () => {
 //   return <h1>Hello Ice Coffee</h1>;
